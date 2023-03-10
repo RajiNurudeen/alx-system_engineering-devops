@@ -1,1 +1,0 @@
-Second devops readme
